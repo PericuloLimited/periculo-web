@@ -98,8 +98,6 @@ export default function ButtonAppBar() {
        
 			<Hidden smDown>
 				<Box>
-
-					<Button disableElevation color="primary" component={ButtonLink} style={{textTransform: 'none'}} href={'/About'}>About</Button>
 					
 					<Button disableElevation color="primary" component={ButtonLink} href={'/How-it-works'}>How it works</Button>
 
